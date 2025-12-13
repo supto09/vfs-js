@@ -1,0 +1,867 @@
+fetch("https://lift-api.vfsglobal.com/user/login", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "clientsource": "R88puL8jwSGagQTO7K7RlBPaPUBEv6zErj5AuQchQkqozo+LsFv7ttdbhQ5AawxKYoAJbZJjxqvdRVrkHAfaMjQMeGc5SF6c3iIo+aP7Srxuyw7ee1/2R/EAVcgn4KMI15/AAhchk69YIb/qhYUroisegoPFobwFAUJ/qhQoJklwrtfSqtsoWNQWnOoK6zcpFp9HDWbUyRc//V6/ZR6Z0OP5M4ySr5+9uTN63YlUp8JJ11dmTZBBGrI8xvnkbb3Z707bc4JclN96PT3d3+9OAU4bpC0vikM2+QiWqKqSuoOu+j/Tw+iR6vjIcJZJiSPfcyGHijTmnxg9XBhAtmbSNw==",
+    "content-type": "application/x-www-form-urlencoded",
+    "priority": "u=1, i",
+    "route": "pak/en/ukr",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": "username=likati1024@idwager.com&password=Y1f7jqEigy4Nam1AgrxhdbReHGzk1t7SJdYV2c3DqX1LYFRJqDq5HznmQVvOF%2B9RxWc5zJ4PjXh6hKp2L%2BD3Yj4UQ4xDwqs46ErrQSmB1ruKUeL8zOSy6y454zM4OGOaJE5k%2B9WJSFUdLywmLSI/ZAovKPXa0%2BRjH4pqeGGSZbEbzmYXGWVcFdzY%2BTUn5ehqt1YbWqUpxIf053exwoLYAGr9rVosY6mja0LVrQnwlUZl0dghf5o/rgOZsQB%2B2vyb4ZT19a02hjcyXcTCpCOdnzzNfOKced2aqRzAcXsAdFNMSZGblUh8%2BLDECKlIWoIToKEqZO9m7S3aLNO3mQ2Ghg==&missioncode=ukr&countrycode=pak&languageCode=en-US&captcha_version=cloudflare-v1&captcha_api_key=0.J4lxV1P5K-5gK8pebwfXVX6M2kp-BE1vgGXLLzAVHm_Vm7n6tkTDODkrVjFQch6sBeo__gKI0HEYNKZ89SrinTDfJeNUL2hNMvy2JxgFe4qGGvrXo6lFQ0X-yDaIpO-0lJlHvaXouJ-PoB_C0_9axvRbqJO1wcBwMWk8JG0Eknuce33tiEXsp6lRHVrCWYhkVBgKJ64lV1ggUBiTis8nKxplZOACz09Awg4FbeZgsI5QIsGqiVsyeP95wTrupQK5wQWOzQ-9AN-gaiEcrwFF3O8vkt1Tcq8r3i_9-I2QryqBlnaDIyoE3QFgy0YydMO4xf_mwJ707CbOk3Bpe9SbkHcLyWdvSgrwdbeJsLyoe-B_54OhiwRVRB544GsJ7enBwEkRyBf_VVH0AsKT_a69Ke4ZrazVCMecd-lGyuVdDcJz_iHnJDNWS4n8H8fLvv6FWcYMfRJ0D_GvTynB1pHP-TKBzGx7hUvjgUopEmR6duByNq-_xBQGtoS9uSl3E34E2g0exoaXAoeMOp5bhvBwrLCFX9Xkv-d7n_gRg2sCvTkNxOm8c41Q6i3uvU6bzU1aRTkKOZ9OiZfITOq-p4G0Tki2HGwpkKpQQ2dfbNeFrATlMIxo_2i4ZsbcXZ0uNzFt1uhg86ovLcX2scWcj7_s0ZgXiNG_IQD-GoZk83pZWfE---N6Bv_ZZXestzWEnz2yiA-73okiwNSClJR68uPaULm5kwrKCuTzohDE8bqtzdJb_rNU_rsCugUe5_ZnY0TOEk__vKiTxWjSlj8qrGLoGgVPEc6IiVzvRbE8gvIJnW280UAgCFuf09rYRIu-Q-bcj7bzpcLLUHdadY_1z32JEXjlLbm0mVc0QJk9509WUAdE_d6xu5LqCFEggu_caieZCO9f7OvA7lBlaI0EBOe0gvnnLTkW_noUCDdGzMsT3hs.I-a4JYrNKDpnA4_zV0yVhg.0dd5c3e2086e7850a6cc0b4d7656fa193b56a8fbb496b3b59f99cca020ebd5c3",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+
+
+
+fetch("https://excalibur.vfsglobal.com/web", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "priority": "u=1, i",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": "\u001f\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003]¢:³Ç¿\u0012(ÎËÅ¹°}\u001b|\f\u001e\u0014´ñ®ÅýØöÌÚÎO*\t\nIès±×ÚkhñOåJ¥òåüm^Öø±ÞÏ\u001eëéûõÛx2ýw<N¶\u0001O\u0016óë*K\u001fIVþ^ïçU{©¸Ur\r×ÙæÊ\u0016»ËzZþÆOíYÀªÓµ\u0018ä\r[°æ0Ý]ÚKl1¿0¾¬Eú8dõãp+Fí¥õ´ArI²xÀöê°Èñ\u0012»Å!«ò&£dz¨Xµyo/\u001d²ºØÆ÷ø#¹C&\u001eã¥i=*@aRÍk¶H¤Zâ§àë£ï®ëýòL7ø>|äCu\u0000óë!;\\ãËãrZ·öR9¿ÄUÚ\u001cnyÀ\u0016³\u0001«fO­0\u000f×Ó\u0019_g»ºÈÊ&YÄ\r~×\r©ZÖâf»Û/\u001eW?1\u001a§jüM¢§¸åÉý­¿´öáý±,Ùa\bVyø÷ô ÂU¾\fO?6ðQÞ®¿×%\u0006\nnôLx\u0011Ñ:«Aaùh/½nG6ïYìn§I\u001c;\u001d¨m89½nã ú]þXþ:îç(þ\u001f\b-ËÊA2=7l:~°ª\u000eð¹®á\t\u0014&ùmw+ø\u0010\u001fßQFý¼\u001e>ÒßÙþ{X\u000eòßéÇ\u000e?uZ|ÿ³z}iÞöá{ùQ_VÓÙ\u0010oX¥\u0011Ëj\u0010^ð$ÛVó;·#!B7´\"!B7\u001f 3x×]@\n©\u0012]VÓ4JìOÉøÙ`5}9¡ù=L¦Åñó@\b\u0017Ñ\u0000Rx>bâò<¸ïy®\u0003uyðµøg\u0015Ç'Ü\u0018Ç+)4\u001c\u001c\u0018«Õ\rp:Lì¡Ô3E(\u0002)M\u0002\u0011g¼úbXÁezä=`\u0000øç³ß\u0005HàQ!E\u0017\u001bØRð¹\u0010ÜJ©j)EJ\u0005GKá%ÊPÁÅM¹ü\u0014HAñmp@\u0018\u0010)\u0005?U\u0015C)eKRHüñ: )ìN\n\u0014\u001c\u0014ðÄ\u001d¥È¨ðXÊ\u0018'ø¤\u001c s\u0012Uy\bRI\u001b\u0015¾Tpé,D)zg\u001024¥hñ\u0005,F)\u0001Ü\u000fï\u0014¼\u0004ÛqbÒøÜ\u000bdÃ®{\u001bÆ2ôº·\biRP<D\\\u000eÏ½U\u001aeâÒã^5å^V¥BJ{Ï¤\u0014roÃ¤\u001e÷¦ÃdRf4SØÐ´á^¸v/ÜPH\u0019ùÝ\u000b´Ýûï9=ö»7\u001d¡\u0014íÞ\u0019\u0007)\u0011xÝdcNRÈ\\(ìH\tõxiË<{á~÷æ\"h]÷GRÊÖïÞ,¶Ý\u000bS$¼§ß½¡tòX{\"KJà¸w\u001c¡\u0014{³4²Ý;-;Rºî\rL»\u0017\u001f\u0019f\u0006·¥h³É.ZH/\u0011)ìº·ª¶{ß½CÆsË½\"{k¿{K\u0011\u0005-åÿw/,k\u0003rþÄ½\u0011321N(Åqï9XO,÷Êq\u001aöä^XÚ\"S\nåÞ-Eò,³UR¼î=\u000fÜ+Ý«¥Xî]OÏ®{ë»-Ü\u001b­­¤\u0015Ö{ëãÞÙ\u0003¥xÜ»ÎÆNîUËÀÈïÞ\u0011#÷êªrÛµLÇ½uC¹w62s¯euÆ\u001e¶{+âºwÄD¾÷åÞ\u001e÷Ö\u0001åÞ¸1Ýë¯\u001c Pj¬e`èwïH\u00141]÷6¢JÄüò¹·\u0016ër×½±t/\u0004ËëÞ¬\fIJm¸·±¥h³éÇUåÐ{ëðJÇ½LZ¦'÷ÂCÛ½²Â+ý¹·|BÖJUìÓo!ËÎVú\u001aA\f¡îð¯_|\u0016¡³Gz÷ÈX9&e\u0014R]ö4jlÕ\u0000¢à\fäCødÈ\u0019iÊ\u0010^\u0000\u0019_\u0006Ì¯3ÞCC\u0013*\u000e»2B°LÀø¬G\u0006·¢ÀãBiÕ\u0013\r±Ime¤\"\u001a:¥82Ò¨+#Ñh«>WFh\u0015\u0015Ph\n\u0019}Ñ\u0010ep+ãaÈ°fä°SêK\u0019\u001c\u0002\u00062ü«\u0003ì!n4Ä_&ÓôÑ#c­+J¡45j\u0000KFmyÃ÷@=\u001a÷È\u0018Ù\u0014Ä\rd4~\u0019\\.×JFhÊ°-Êg7ÄàÔ/5ÌÚ§p1(©¿Ô\u0007\u0019´ò\f\u0019ÉÅÁ]\u0019FÏLaSpæBÕ+aw­S\u0018lÒ°oPxnY´ÑÈzf\n\u001b82b÷\rJB¥ccÊp¢qvÖ¯ÁzdD¶E\tË×´ðvdXÞùfËÇí>\u001d\u0019çOd\u0004bÌZ\u0006DCd\u001e;oL\u0006N\u0016\u0015ÞÈ{&¬2ZSÌ\tkç\r¸=SÄdäç/*êPì°;E\u0005\u000bÅ0²ié+*`P\"]jñ\u001e9}X\u0003C½ó@§0¸)H¡ñ2Wò:¨[TÀME&óÎ/Xû\u001fv\f§\f¬ÂFæàt*¢1Är¶èäp¶Jbê¥h\u000fæÏdÒ[\u0012^µ¡\u0003ÿ\re\u000fàâ+*d/\u00059\nÔÝ®o(¡\u000eV$¢¢?5³:ñfÊCI\u0011û!&\u0016*O\u000b\u000eÊ+Qpvi²\u001dQvI\\Áý§q³&)ú»¶\u000eBÓ\\o¼¬Æ©ÂÇÖ$Íc­÷¦{\u0014.wÓ½y¨úzLKÑ;\u000e\u0011\u001cöÄ½%ìc\u0003ý]¦e\u0014í\r½ñ\u000ee\u0005ÁëÀv/Já{s.¥dvåÐ\u0013s2@&J9s\"éý²\nNª-#j*}ÃqhKÑ7ì¸7\u0010MÐ®{Ql1vÜ;\u0016ÕÉÓ)qDí«&\u0012í\u001d`jÏ\u001aS\u0016\u001f«þÓ#¸©^è3f¹Woöµe¦¥¨×N3\r¥Ô¼ë^Ù¢\u0002)ß½\u00013\nA*\u0003Õ~÷¦\u000f¬iD·Ì¨`Ù¶k\u0019Ñb´\u0000£(\u0003¿{\u0003¹ß3Ý\u0006j\u0007ûÝ6$%5roøÝ\u000bù0ÔR¦R³¡k¥ÀZ¹Wì¢\u0002æ´ÛqJCf×½rææD2Ü\u000b\u000bÎ½\"«ÂÀ¢\u0003UèJYÕ¾¹ß½éÐvït,j;\u001dË½\"k[îe28FÑÞq/<\u000bºÉ-\u001aM=Ë½©^õ°Åk\u0011y?\u001al1{¹hzÂVæáwo¸¦ùI3%Xg±ß½ù(ÑËµè\n»î­ÆöÉåºvZÁJÊµQ¡ÊA,×!£¾^×½ÅÚ\u00115µÅòNÂ3Ý[Åºÿ*\u000fÕãÞ\u0001¬\u0010V;\"\u0002Ë@´·Òí8\u0015ne.ªüÙ{¡8#)SÝ¸Å×Î½ú»*½¥\u0010\u0005S(ÕëÞbà4ÓDó=:Í4\u001c§Ò9È\u0010¬,~øÝ;\u0010[)¢\u0019¯+ØÊ®\u001ct/i%L¤¼ésoUÛÍ4(lÆïÞ!£\fí(\u0011ªÇ½åéVpÉÊ!¡Þ2\u001dÃ1-Åuï\u00104Ú½±H# ¥§r}Ñ¤{>÷ò´!)Â½qOå0\u0014«D×½C9*{{ÛS\u0019:­`Q6æM2ñ»Wr(eFîíÜ«\u0003E[@Ñ\u0016R¼î-#§&J\u0003b¹w-\u001b4{gw[\u0016ÏLlòw$Öå®{É\u0000{uT\\÷rø§ãÞ¢#¥ã^Ö0½\fÄÆDhK¡ÒñI\u0007\u00192½4äùgWJlÕ½¬§²Ê\u0001¤8»¶Gréw/ùÈtow\"q\no¨\u0001å^g×ÖJBºë^\u0016¨Ü{öºW\u001cìÚÍBæÞÄ[9på¨v/ËþÜËÈQ9-×bNgv+\u0018¥DNå òEþðW\u000e ¥~XØÁü}úÝ\u000bÃ¨ë^ç©Z>[îÕg\u0001´U\u0012Õ4òïÚ`Pf½k\u0013kä´táTp8\u0016æ®Môk*æw/SÅ&L½øú\"©\fm63Ü]¶3ÊÐ7$8\u0003©\f\u001d(3Êèj´TF7Û<L\u0014B\u0017Á\u0019N¶!8Ã=xÒp\u0006R\u0019zêÑñ6R\u0019¨ÐâDÖv¶i¥´TmZ8Ãð¤N÷[\u0014\u0002\u0015\u001apsðDp\u0006R\u0019ø)ëà©³%8\u0003\u000f4ÌlÓ´ãÖJ\rgø\u000fý\rzÆèG\u0011á\u001cú\u0013TmPJe\u001f\u0006ª1ãïÏWr\u001bÓ]+\tÎð\u001dú·p\u0006R\u0019Ú½\u0004gXÈ\tg ásoKetÜ«à\u001e÷ªíf÷àÉ3<È\nÂ\u0019x2¨}h»7Õ£lÀ\u0019\u001c\"a¸\u0017á\u001edö)±±OÑp¬\f)ü³CÿÌî\u0011I8£ÿÐ?D*Ü«á\f¯{\u0015çÚäÞõ +\u0006Tß½¡Ó#Rþ(Åqon÷L8Ã¬¤Æ¡iä^\u001b¸¢®#Á\u0019HexÝ«¨{\u0015ÁzÜ[ÕOÛ½\u0006áºWÃ\u0019(EûÐ>ô/µ7\f8ã³CÿÊ0ÝÛÂ\u0019~÷FX^\u0019È\tg8î%8\u0003©Ü+¨\fÛ½\u0014×½\u0011R\u0019ä^\rgxÝ{\u001eRî5ÝÛ¬\r÷Ö!+ëÌÎ½Oö\u0019²RÛýy\u0013Îð\u001eú)÷ýy\u0007YÑ\u0001g°Ï\u0015EetÜ;û\u0014YÉØÃÉ½³O\u0015\rg8¹×AVôÂaÀ\u0019¸\føÜÛR\u0019¦{[8£\u0007Y1z\u000fºì1à\f\u0017YÑp\u0006R\u0019TÛXÈJ\u0019ÚîELéì²[)He{5áGVF\u0006DiÀ®ÃÜkÂ\u0019HexÝ«¨{\u0015á73Ê \u0018j8Ã¡\u0001g Ñ#CP\u0019\u001d\u0019\nÎpv\u001c\u0004g A¢á\fG\u0006Á\u0019Heøe4Æ\t\tgôE£¢c\u0010ü.\u0003Îpeh8\u0003©\u001e\u0019¢Ú¡à¤O^Þ\u00023\u001aÜOq\u001bp\u0006R\u0019}2*çäQÈð\u0017fCUê«\u001d)åy\rg¸2(%·TF\fAetd(8Ã¿ÂJ8ÃaÂ\u0019®\u0011õ\u0000\u0014áÁ\rÖ*8õXëâ\u001bp#à\f¤2údp»-&á\fÿª3ì½\u0001g¸2\f8NQ\u0019=2\u0012ûTZÁ\u0019}Âõ9GcF#ë)\u0004g Ñ'Ã)\u001d%\u0015Áú¢qvÖ/\u0003ÎpeDT5(*£GÆ:Ë½2üÞ\u0010p=(ÛOd\u0010T_<\"ëZ4ø$\u001a\tu\u001d\rÒIÃ\u0019®²¨¢2zd$öLQpFOÞ\u0010p=a\r8Ã=ô×p\u0006R\u0019f!Ýá\u000frc»¤á\f<Lv\u0011R\u0019TTh8Ã[T(8\u0003s#9JÃ\u0019V\fM8\u0003©\fúT\u0013\u0011TF·¨P³¥¥2¢¢\u001e`Õ§\n3¼È3Ê0\n\u000bð2{)Ä\u001f(*Ãk\u0000EetQ\tg¸,3ljÑ3|þ-T.\u000bûàIs\u0006TF·$F)rÇmÄ\bg8à\f\u0007Y!8Ãsèp\u0006R\u0019úÎ¡¿¶¨\u0001g Ñq/JQå\b¹WÃ\u0019þ'N?Ð)Å3'3ÊpJbbó¢²óTéÞVJâu¯3üÈÊ@\u001eãà\f\u0007Y!8\u0003©\fÛ½(Å>6Up\u0006sØ9\rg8°+Á\u0019^d¥Öy×<x2à\fëÐß3ÊðºWQ\u0019¦{[8£\u0007Y1ZÔº'8ÃsèOýrEehoä{\ti6à\f¤2<îE*Ü«á\u001ed%Ñl»ù[3\rg¸È3Êpr/J±QR\tg áº7@*C»à\f?²2¤ÀÚÎ\u0004g8È\nÁ\u0019HeøÝ+©n\r áÄùý3ì_/\u001apïØ~ÿÅã{\u0013Î@*Cà\f¤2¼îUTá^3âà\f»Æ6à\fÏ¡?U**C_r\u000eýö¬3Êð¹·¥2È½\u001aÎð»WÂ\u0019Ö±©\tg8î-Ê\\Q\u0019=¹WP\u0019]÷J8\u0003O\u0006]÷\u000e°3¢ÝKp\u001fY\u0019\u0018?\u00036Mkî5á\f¤2üî\u001d\u0018\u0018\tg á¸·\u00189Í43¼È\nuF\u0004¡^ÜXRt·Ç3ÊðºWQ\u0019¦{[8£§r\u0010ps\fÇî¶\u0014rï~A£¨\fZ-÷Üqo+¥Ç½-a¸\u0017á\u001edE¬\u0012\u0016²bÂ\u0019.²\u0012®-þ\u0000eL,÷òÂn¦(ëÞ!R\u0019ä^\rgøÈ@!¨-ÖåD\f÷p\u0006JñºWQ\u0019ø]\u0006Ñ¬\u0001\\÷~¬h8\u0003'\u0012¹×BV\u0018=2e\u0019¤2|îm©{\u0015áGV$a¹×3<þtz ¨>÷òØøù3ú+T\u0006¹WÃ\u0019=È3pÜÉ½~TÛ3Ê jÙBVJëÇk\\%¼Ü\u000bRìßÞ\u0012áGV\"ª\u001c_/\u0012á +\u0004g áw¯¤2ºu¯,6×}È\n\f£U÷\u001apÏ½-T\u0006UËOK\n'8\u0003©\f¯{\u0015îp\u0006¾2\u0003òT\u001f{Pt¦\u001eÜÀÏZüæôº}\\ò]Ö°VÆõáÛKi\u0013\u0001\u0013\\¶á\u000e¾ïçs5Y®ÚKøëXp\"óü\u0012±ÓÍ4(uÔ&\u001c6ú\u0010\u00199:¥Laùñò!^¼òöc\u0013?\u0018¾eeÕ|\u001f¼½&ï«Ã­\u001cîÇ~EÌq2ªào¹ÿ»\u001aìþ¬»ÛKåå;üåé×ñ\"Þ;³¼\u001e?b|£Ëú²|Éê\u0013ÛlÇ?Ó×Çq¡ÛGñl¾Þ\u0004Ïy<\u000b¯§Åü\u001eÏøFãms-o»f}yy)¼Ü\u000fÛD/\u0001/iyû\u0006½ûS\u000e_®Åà¯£yÛïêx~¸\u001fÉ¯ã ú%Þ\"Ó^Úå³\u000bHIÃ_¿çûçô fûyõ¶\u001f\u0005ÇaòsÝ¼,QÆÇæz¼$Å³÷\u0013ml6ÿöLvßÿÙ¶\nw'\u0014_Ô¿&ßBØ\u000eþ\u0001\u0003ÿ3û\u001d£YÈVûÛþ÷5\u0017\u0002ýþÛ^\u001bMß~,ÿ\u001e÷ù_ÁZYIaôçÉûá6oÞ¶êÆ:o\u0014\u0017\u0018Ît\u0003\u001f×á{\u0011\\ñÒi±»ËWìÌ[G]O3|õS¼K'\u0013ÙóYh¼c\u0001fb#|¸«!`×{h¼ê\u0001¦\u001a\u00176óqkº\u0004ß}TÞ\u001e­k\u000e`×ø¶C\u0019«Ý.\u00132¶³Í¶uoHó·ýìïfñþþ6]È¢Ó­|»Ð®JøòeÉ\u001e\u0019Í-áïïx/Ñm2éé=¿dû¹z»Ppé/P#\u000eXõRC\u0001?8dZß°äÅ¾\u0018\u001cªr$^÷TÜ(#Éæ$+E§\u001cñcùð´ÏÅãÎ3Pyú±\f\u000f[m¶<L:ÿ¼%S!Î.YÀÿGpã6[zYßFáqñ\u001b/kH-øÈÅþÉÅ²S\u0000ÿü5¾ê\u0018îà{D¡\u0014ß6O\u00118kô/}W°ª\u0010¾\u0003t\bþy}¹ÑXÿ¾\u0006ÿó%üúåíËW\\ÚÂòë÷ïA\u0014_Ëà-ú\u0012\f¾\u0004oí¥ï£ÿ~+ßF_oÿ´ÿôAþ¼+K\u0000\u0000",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+
+fetch("https://lift-api.vfsglobal.com/appointment/application", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "authorize": "EAAAAP/K7HIhB2JIAFQzYJPuje8oTpF9yAr6oGosIl4EWPuRjwhF5Puvxo5oK/eFG+4/YPAYw2m9DPRLqRuAwnU649AHRHBqZks57soiyu4gyrVMkp0fgDllHckxiMe8eaaurnoY+PkaGUYI6vt6j2TM4XfpVHkt1xS/O7Zlj+2Z3pOnj/E6olAkj92RilKA51WQB2lhYJ+i7AomAipMHH7FJTYnJwyaYJeWBKJOBkY95V9xppn+1N6U9gZEOT4rIrHTYwHVloWDrq+eFODZMwyb4EEl6xHGc13vdUthEd7D1ALAXWGnh+rT52kN7NQLW8GhQIXzAdorXncaJO/Rspg83oANJxgaAw93xsrzC/B94FJarU5iowo4/9uA84ZIf36pJl/SWirpzBx/fKXi4hhmG+eFjgGs194TUenHNQgPTw9MtJ5PGufh/mTuakvaNvXXCk+BfU8sqnJfkt4OMwPsbjMBIvSOberR/OwM6tf3kdWbBmReXCY2O80qU5rKqdn1kEahhLWthRYbJPmN7F3hfP9/42157ZR8zUK4HzmUWKtp",
+    "clientsource": "jwm9OE4s3cls+/VKaNDrgIRzIQX7huUHMvquuBvxCs9H5rLLhlwbArHsVj1fnxRU0xVttxSnNPcVrXM1PIoPIWtOEBbFwPIwGCxxxN2ZZ4+SVmXHZUYAckbMtuC2RM3XQWAt9n7d5zdnfhEtrydAlr85wScZkLAxhCQFw/2S4AXVjAhGN15Xdw+KeIus10IBJHN3a0V0zrxlmef6DxOKOOZa1/3jlYlwKU0CmJCc1sXRnoqCjxhLCyV8+YPzdJe2F5Vo4V6QioifhEAeGUMOdvdPm2zPeHXPHSol10NOB+8TGxa0fqamds+Nx7BLES61BgdJHOCG8j6T3384Y3MuRg==",
+    "content-type": "application/json;charset=UTF-8",
+    "priority": "u=1, i",
+    "route": "pak/en/ukr",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": "{\"countryCode\":\"pak\",\"missionCode\":\"ukr\",\"loginUser\":\"likati1024@idwager.com\",\"languageCode\":\"en-US\",\"visaToken\":null}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+fetch("https://lift-api.vfsglobal.com/master/center/ukr/pak/en-US", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "clientsource": "H9BITOVbqXcL4G4vl3ANETXGbHNZgYJdidECxuosbSKYSUDIUZW6J/Qf/nMsg8cbX9aweg336+v4VNuwBXmSPOcZ37oAVSHz9QrFX5a8Ox9eio+ahCXQ7ez5fW+SX2WWe8jbFsjHswYLPo2aUll6f2oVIWCJc4/6Gxd1VvclKD9Mfs3M3/eAlzuU1pvRyAL4zg1DkbuHTn17v1Zs/CveWj5Vua7H0tOPi7bUp2nqWg1izmkmPoW3PF5QkjvrUtv+bIvLhN0D7gSELhk2dOAaQgQLwGPUFCke912W0QUlUYAh3UKKbYLw5+7JhewrejXYSG62611NTQNr9iSeU5qrqw==",
+    "priority": "u=1, i",
+    "route": "pak/en/ukr",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+
+fetch("https://lift-api.vfsglobal.com/configuration/fields/ukr/pak/KHI", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "clientsource": "bg5fiX3o990GUEmCY0WORAzGnEifP1Ciy3TvHJQznEpDWd0ZMU2oFEwxWHnD4DTHQORntOwy4zrZnF7jqJZQ0nigZR0qLThXtRsDWlcmxQ9uzrnDnOncFWCKaLbKqGPqhfLoSweIGLFbMJkE6RDAHKV0xkmSui797GCCDrxAI/O4uMUGabsE+w0QlZFFuLPGndRg4UO8vZDROWhRL0Bl3IpkrdAKYG67eG5XwMhqRrOzRG351xZR1s528M7mIOj2wGkVAvBH5OG4cAERbgAOn9CKwMIu+Hd+IlZ9eX8gHVzYRZO6UEXnelD9nWcqSHLpaFXUUZdICvS6K2A5FDbccA==",
+    "priority": "u=1, i",
+    "route": "pak/en/ukr",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+
+fetch("https://lift-api.vfsglobal.com/master/visacategory/ukr/pak/KHI/en-US", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "clientsource": "SCAnmds6BwXLS78CYOQ1rvGE4opWJdmcmOSXJCmuyiBmczEf1wqp3iPnrTLrWNpbC66ZiPElaFxs0bOZ5cPd94F+M/bauV8NY77mSn1ib1Fx5ngrl0qJztqU+SENsKum++8w6SBzGjljSPWDj8K9fH1qYvL9ny7mqkYOcMIwYK+jGDInWS1/bDM+DvTZjqBHJOFiKx+ZnOUmRV6ArPlIlKKHWeTIkpmdQSTATveqY8CzgJ0A185paCY2CH3UKtI/fcrMaPu7UwwTIZ1XOqIglt9dSnG8F4Da8Z32WP8+nk1Y+bLilb8DCOecFs6KWOzzo4AazdCeux6YBvcyHBUydA==",
+    "priority": "u=1, i",
+    "route": "pak/en/ukr",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+
+fetch("https://lift-api.vfsglobal.com/master/subvisacategory/ukr/pak/KHI/Short%20Stay/en-US", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "clientsource": "ggbDUXMmA2i5jfBVWtOTbbG2c0ORi/jxNZaRMyoFGVFuuHjlED6LRRMpK8XDfR/eIyVFkRBKSlEH3WyJl3itA1fbwhrQI1TGUt6SQcZOKlOKboYPPppzL/IFXzbdeDmMwWXixzrkYcnATLS2e0u9TU2p1vrD7uNWcro8IE+n1NUvtoy+SC0idVWzau9Ws8C7Ku2MVrI3f8VMVw2w2KhAvRXWClOd+SAHtM7MvoEa6Rg4iYmrMwkSHUXRfbeI1k9B5pNlcwEcLJSELcw8zem+TZ7FsA5by3U+sPR9EKtztcBvNM2HuNAypgG3JoxZ6r8w9HhXH5GCSUn9WJtxjoVxag==",
+    "priority": "u=1, i",
+    "route": "pak/en/ukr",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+
+fetch("https://lift-api.vfsglobal.com/appointment/CheckIsSlotAvailable", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "authorize": "EAAAAP/K7HIhB2JIAFQzYJPuje8oTpF9yAr6oGosIl4EWPuRjwhF5Puvxo5oK/eFG+4/YPAYw2m9DPRLqRuAwnU649AHRHBqZks57soiyu4gyrVMkp0fgDllHckxiMe8eaaurnoY+PkaGUYI6vt6j2TM4XfpVHkt1xS/O7Zlj+2Z3pOnj/E6olAkj92RilKA51WQB2lhYJ+i7AomAipMHH7FJTYnJwyaYJeWBKJOBkY95V9xppn+1N6U9gZEOT4rIrHTYwHVloWDrq+eFODZMwyb4EEl6xHGc13vdUthEd7D1ALAXWGnh+rT52kN7NQLW8GhQIXzAdorXncaJO/Rspg83oANJxgaAw93xsrzC/B94FJarU5iowo4/9uA84ZIf36pJl/SWirpzBx/fKXi4hhmG+eFjgGs194TUenHNQgPTw9MtJ5PGufh/mTuakvaNvXXCk+BfU8sqnJfkt4OMwPsbjMBIvSOberR/OwM6tf3kdWbBmReXCY2O80qU5rKqdn1kEahhLWthRYbJPmN7F3hfP9/42157ZR8zUK4HzmUWKtp",
+    "clientsource": "ir2v0E9cpe43JMQIIq23z9uXiNIQ/QSeJbvkJE597WAKHp+l9Xeplh1adX+fGCVJXYPEQYaoTxQKPnbATtCpvPR6ZZHayunMGBd5rU1CRnTDc1QXr6Ql951fhBMAytnMeyH9oFjDVtEBWy4VgWEkISUI/B0hKp1pfh6xE6B5Sia/uziwgnd1CTCxjJuu+sl/MZQoWzOFccwHDJPhcB7ZruNjHlmbWQf1ob/TIgZPj8DKLYEjwrKv7q1HuPla8UXkriqutYWkayRIXD+EVA/1z65A1XUKp8+KKG99qdtg8Sn4QySufgDp71v0JMeJzdwzYOiD/hmj2XbHbdYfXlfWPA==",
+    "content-type": "application/json;charset=UTF-8",
+    "priority": "u=1, i",
+    "route": "pak/en/ukr",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": "{\"countryCode\":\"pak\",\"missionCode\":\"ukr\",\"vacCode\":\"KHI\",\"visaCategoryCode\":\"IP\",\"roleName\":\"Individual\",\"loginUser\":\"likati1024@idwager.com\",\"payCode\":\"\"}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+
+fetch("https://lift-api.vfsglobal.com/vas/vasbyvac/ukr/pak/KHI?languageCode=en-US&sortBy=relevance", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "clientsource": "dHJY6qW+oC2vugIvsJm+6DMZq5+PSiPuzUew/t2TkQeLqXZft3oUrUKNdZ1reMbUC7YI4hZge7ao0shdccTz7zzieroqQElPFI/H/LhPO8V1Gq7mOlyd5ito69bVwO+n71WVhKEDyjHsKYwUjBrFMx3I//rMCMraR5YTSyFa57BPJmEln2J2rdnONhxsbTDb+qBQf7vVQNvc6T6RQWkwPopwKIjTPrtMZUpNJw5048hcjX8Cr6IEedc0P0zlD9EmWAM+CnKPNqk7mvlG44uH/cTa04WnYDUqrBHB7WZOXP6lRInoWG13bVaRtY6CNRDGU5G3VjBA3BHEgi+pKYkf2w==",
+    "priority": "u=1, i",
+    "route": "pak/en/ukr",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+fetch("https://lift-api.vfsglobal.com/master/gender/en-US", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "clientsource": "DoPcrd5MInFOxAv69VTjQpHxUp4XuR5zuUi0/SwQBdOLi4QzGRCilzlEfymzte+3qoFhnh9+6TdDmmU+znFcYUIFzWfv1e7rQ/LXrIsDazRA8vgwgPEyam2SuVphvvi4ZoFsKFuJOJH1lhFgCwuFH0T1nCP0llSFOdlqud+bHZsLA77id44icboid/6DRDxej7GRHnUNx3B7lwInDHdss8bWbKvSLcSQqDg52YQS8JwTqzmI7NbJx/jtA/pIIONwmQxwl0T+wEM77esu14E/egzkpVuWQ4IXBbdyxok7aqPO9j3ZSrkJ/33cOujxftV8jhqG5ColvFo3BsdxOtnGXA==",
+    "priority": "u=1, i",
+    "route": "pak/en/ukr",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+
+fetch("https://lift-api.vfsglobal.com/appointment/applicants", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "authorize": "EAAAAP/K7HIhB2JIAFQzYJPuje8oTpF9yAr6oGosIl4EWPuRjwhF5Puvxo5oK/eFG+4/YPAYw2m9DPRLqRuAwnU649AHRHBqZks57soiyu4gyrVMkp0fgDllHckxiMe8eaaurnoY+PkaGUYI6vt6j2TM4XfpVHkt1xS/O7Zlj+2Z3pOnj/E6olAkj92RilKA51WQB2lhYJ+i7AomAipMHH7FJTYnJwyaYJeWBKJOBkY95V9xppn+1N6U9gZEOT4rIrHTYwHVloWDrq+eFODZMwyb4EEl6xHGc13vdUthEd7D1ALAXWGnh+rT52kN7NQLW8GhQIXzAdorXncaJO/Rspg83oANJxgaAw93xsrzC/B94FJarU5iowo4/9uA84ZIf36pJl/SWirpzBx/fKXi4hhmG+eFjgGs194TUenHNQgPTw9MtJ5PGufh/mTuakvaNvXXCk+BfU8sqnJfkt4OMwPsbjMBIvSOberR/OwM6tf3kdWbBmReXCY2O80qU5rKqdn1kEahhLWthRYbJPmN7F3hfP9/42157ZR8zUK4HzmUWKtp",
+    "clientsource": "gJgIBs+KZWJEYlgZfcHlzvkE14QbMU414C5PKLL+mPn51uY7lFj4fJ4f4L7NyN5AXxvx8l9eL5OMvt3L4z2cBwISTFCUJ5e9JZZyJmq8r/HUEDnAz+5VyRUZSczKcRxT6u8t1ZEzo0N9QStIdILuB9B9tBLerBnIUNjX7MfSb6p7+bOp2yljfajZ0ZpNpr4scS01po+954OJBHEXbbZ173ijduHng1FlK0nWHAL0blKec+5T0CSW7IAcRwXCy723ul4tf00gim0lRn1JP9Igp/uJKjPZbrP/7IoC0/tghaYZWeKu5tELIQaVAn/gZR1+zpOE6yky50rdbfNBz3ToQg==",
+    "content-type": "application/json;charset=UTF-8",
+    "priority": "u=1, i",
+    "route": "pak/en/ukr",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": "{\"countryCode\":\"pak\",\"missionCode\":\"ukr\",\"centerCode\":\"KHI\",\"loginUser\":\"likati1024@idwager.com\",\"visaCategoryCode\":\"IP\",\"isEdit\":false,\"feeEntryTypeCode\":null,\"feeExemptionTypeCode\":null,\"feeExemptionDetailsCode\":null,\"applicantList\":[{\"urn\":\"\",\"arn\":\"\",\"centerClassCode\":null,\"selectedSubvisaCategory\":null,\"Subclasscode\":null,\"dateOfApplication\":null,\"loginUser\":\"likati1024@idwager.com\",\"firstName\":\"SPECIAL\",\"employerFirstName\":\"\",\"middleName\":\"\",\"lastName\":\"ZOHAN\",\"employerLastName\":\"\",\"salutation\":\"\",\"gender\":3,\"nationalId\":null,\"VisaToken\":null,\"employerContactNumber\":\"\",\"contactNumber\":\"1717676676\",\"dialCode\":\"880\",\"employerDialCode\":\"\",\"passportNumber\":\"A4356754\",\"confirmPassportNumber\":null,\"passportExpirtyDate\":\"15/02/2029\",\"dateOfBirth\":\"10/12/2010\",\"emailId\":\"LIKATI1024@IDWAGER.COM\",\"employerEmailId\":\"\",\"nationalityCode\":\"BRB\",\"state\":null,\"city\":null,\"isEndorsedChild\":false,\"applicantType\":0,\"addressline1\":null,\"addressline2\":null,\"pincode\":null,\"referenceNumber\":null,\"vlnNumber\":null,\"applicantGroupId\":0,\"parentPassportNumber\":\"\",\"parentPassportExpiry\":\"\",\"dateOfDeparture\":null,\"entryType\":\"\",\"eoiVisaType\":\"\",\"passportType\":\"\",\"vfsReferenceNumber\":\"\",\"familyReunificationCerificateNumber\":\"\",\"PVRequestRefNumber\":\"\",\"PVStatus\":\"\",\"PVStatusDescription\":\"\",\"PVCanAllowRetry\":true,\"PVisVerified\":false,\"eefRegistrationNumber\":\"\",\"isAutoRefresh\":true,\"helloVerifyNumber\":\"\",\"OfflineCClink\":\"\",\"idenfystatuscheck\":false,\"vafStatus\":null,\"SpecialAssistance\":\"\",\"AdditionalRefNo\":null,\"juridictionCode\":\"\",\"canInitiateVAF\":false,\"canEditVAF\":false,\"canDeleteVAF\":false,\"canDownloadVAF\":false,\"Retryleft\":\"\",\"ipAddress\":\"103.4.144.130\"}],\"languageCode\":\"en-US\",\"isWaitlist\":false,\"juridictionCode\":null,\"regionCode\":null}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+{
+    "urn": "UKP73230589844",
+    "applicantList": [
+        {
+            "arn": "UKP73230589844/1",
+            "firstName": "SPECIAL",
+            "lastName": "ZOHAN",
+            "passportNumber": "A4356754",
+            "isPackagePurchaseMandatory": false,
+            "isPhotoUpload": true,
+            "idenfystatuscheck": false,
+            "isWatermarkValid": false
+        }
+    ],
+    "status": null,
+    "error": null
+}
+
+
+
+fetch("https://lift-api.vfsglobal.com/appointment/fees", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "authorize": "EAAAAP/K7HIhB2JIAFQzYJPuje8oTpF9yAr6oGosIl4EWPuRjwhF5Puvxo5oK/eFG+4/YPAYw2m9DPRLqRuAwnU649AHRHBqZks57soiyu4gyrVMkp0fgDllHckxiMe8eaaurnoY+PkaGUYI6vt6j2TM4XfpVHkt1xS/O7Zlj+2Z3pOnj/E6olAkj92RilKA51WQB2lhYJ+i7AomAipMHH7FJTYnJwyaYJeWBKJOBkY95V9xppn+1N6U9gZEOT4rIrHTYwHVloWDrq+eFODZMwyb4EEl6xHGc13vdUthEd7D1ALAXWGnh+rT52kN7NQLW8GhQIXzAdorXncaJO/Rspg83oANJxgaAw93xsrzC/B94FJarU5iowo4/9uA84ZIf36pJl/SWirpzBx/fKXi4hhmG+eFjgGs194TUenHNQgPTw9MtJ5PGufh/mTuakvaNvXXCk+BfU8sqnJfkt4OMwPsbjMBIvSOberR/OwM6tf3kdWbBmReXCY2O80qU5rKqdn1kEahhLWthRYbJPmN7F3hfP9/42157ZR8zUK4HzmUWKtp",
+    "clientsource": "fXV5jA0jHPiMYhnWjf0Jg2P2TdugtRNLLuMUWIqERIXlOkahjICg2MsWDNRQ7VeVcQdnoh5mTtD9IVIBEGUmeLHcn8zHjLE86Wk9WRGvXcNtmUpdk2s3SJMeHcMjB2LJ2D6hhARORg4DqE2OFkeOMW9pQj4I4ztabOxLVZMgNuobNIPQ8f8jN/m56LA3mb+ylCSa480ynK4DpIfpRADs6gsKB0DGxn2Yd+xM2G0QKIDOzeG8TkY2z+hDnlYrDG8K0E9hkLU+3Z/BKsrBqdWv/OD7BLjXdke8LFZhnTxTlsRsVvVI3zexL6ppzEougFOMI2kgbrdWQqNNoKhQC1LM3Q==",
+    "content-type": "application/json;charset=UTF-8",
+    "priority": "u=1, i",
+    "route": "pak/en/ukr",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": "{\"missionCode\":\"ukr\",\"countryCode\":\"pak\",\"centerCode\":\"KHI\",\"loginUser\":\"likati1024@idwager.com\",\"urn\":\"UKP73230589844\",\"languageCode\":\"en-US\"}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+
+
+{
+    "mission": "ukr",
+    "country": "pak",
+    "center": "KHI",
+    "totalamount": 0,
+    "totalSGSTCollected": 0,
+    "totalCGSTCollected": 0,
+    "totalIGSTCollected": 0,
+    "totalCalamityCessCollected": 0,
+    "feeDetails": null,
+    "servicesFee": null,
+    "additionalFee": null,
+    "error": null
+}
+
+
+fetch("https://lift-api.vfsglobal.com/appointment/calendar", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "authorize": "EAAAAP/K7HIhB2JIAFQzYJPuje8oTpF9yAr6oGosIl4EWPuRjwhF5Puvxo5oK/eFG+4/YPAYw2m9DPRLqRuAwnU649AHRHBqZks57soiyu4gyrVMkp0fgDllHckxiMe8eaaurnoY+PkaGUYI6vt6j2TM4XfpVHkt1xS/O7Zlj+2Z3pOnj/E6olAkj92RilKA51WQB2lhYJ+i7AomAipMHH7FJTYnJwyaYJeWBKJOBkY95V9xppn+1N6U9gZEOT4rIrHTYwHVloWDrq+eFODZMwyb4EEl6xHGc13vdUthEd7D1ALAXWGnh+rT52kN7NQLW8GhQIXzAdorXncaJO/Rspg83oANJxgaAw93xsrzC/B94FJarU5iowo4/9uA84ZIf36pJl/SWirpzBx/fKXi4hhmG+eFjgGs194TUenHNQgPTw9MtJ5PGufh/mTuakvaNvXXCk+BfU8sqnJfkt4OMwPsbjMBIvSOberR/OwM6tf3kdWbBmReXCY2O80qU5rKqdn1kEahhLWthRYbJPmN7F3hfP9/42157ZR8zUK4HzmUWKtp",
+    "clientsource": "fzNO0Ak3Zq6UH+zHon4FtVwimoMr7cCiYTsYspYYQIph+a9VsySYEhdo3M2FtQ5a6A98ix/QVpIOZbjDShlOFHXkGOrtjGMbX7aubroD94hSa8tzTPxNFMnYa5H9UT/wMfGLWOnY7Jo3PMKYvyoXAhOFIa9qo2MD5ncBK3ip2/I//HvPRjJObbWca4PP0ZWe3ZrJzGBgNS93/teyTIaJ7u7N0lYFna5TQwmyunpjf5QE9ndcobLJgx3lQBQT+3NBAVShQMlJC93vb5mg+Q4Vkp6eyVoHH6hCZoSHQiaxvmLBKed0fJJAiinMw3C2/72Yd0msvpJxuMnINcJ23G5NxA==",
+    "content-type": "application/json;charset=UTF-8",
+    "priority": "u=1, i",
+    "route": "pak/en/ukr",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": "{\"countryCode\":\"pak\",\"missionCode\":\"ukr\",\"centerCode\":\"KHI\",\"loginUser\":\"likati1024@idwager.com\",\"visaCategoryCode\":\"IP\",\"fromDate\":\"05/12/2025\",\"urn\":\"UKP73230589844\",\"payCode\":\"\"}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+{
+    "mission": "Ukraine",
+    "center": "Ukraine Visa Application Center, Karachi",
+    "visacategory": "IP",
+    "calendars": [
+        {
+            "date": "12/05/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/05/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/05/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/05/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/08/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/08/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/08/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/08/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/09/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/09/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/09/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/09/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/10/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/10/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/10/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/10/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/11/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/11/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/11/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/11/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/12/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/12/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/12/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/12/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/15/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/15/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/15/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/16/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/16/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/16/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/16/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/17/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/17/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/17/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/17/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/18/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/18/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/18/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/18/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/19/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/19/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/19/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/19/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/22/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/22/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/22/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/22/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/23/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/23/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/23/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/23/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/24/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/24/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/24/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/24/2025",
+            "isWeekend": false
+        }
+    ],
+    "error": null
+}
+
+
+
+fetch("https://lift-api.vfsglobal.com/appointment/timeslot", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "authorize": "EAAAAP/K7HIhB2JIAFQzYJPuje8oTpF9yAr6oGosIl4EWPuRjwhF5Puvxo5oK/eFG+4/YPAYw2m9DPRLqRuAwnU649AHRHBqZks57soiyu4gyrVMkp0fgDllHckxiMe8eaaurnoY+PkaGUYI6vt6j2TM4XfpVHkt1xS/O7Zlj+2Z3pOnj/E6olAkj92RilKA51WQB2lhYJ+i7AomAipMHH7FJTYnJwyaYJeWBKJOBkY95V9xppn+1N6U9gZEOT4rIrHTYwHVloWDrq+eFODZMwyb4EEl6xHGc13vdUthEd7D1ALAXWGnh+rT52kN7NQLW8GhQIXzAdorXncaJO/Rspg83oANJxgaAw93xsrzC/B94FJarU5iowo4/9uA84ZIf36pJl/SWirpzBx/fKXi4hhmG+eFjgGs194TUenHNQgPTw9MtJ5PGufh/mTuakvaNvXXCk+BfU8sqnJfkt4OMwPsbjMBIvSOberR/OwM6tf3kdWbBmReXCY2O80qU5rKqdn1kEahhLWthRYbJPmN7F3hfP9/42157ZR8zUK4HzmUWKtp",
+    "clientsource": "IPoC56AuIUdfsfnmR2/uhOPtjlTdeanlNu2uFbKvIbA0IztNtVaye0VwN1X7aw1pQxOt2d0LIH2xd3p1k6lJ/5dT4bI4YuW51RYO/lBlVz7Xw/b6XaMF7dU/VHZglRcNR45cpExWTrKE68KobGU4J/wLQVZg4MMvhbs0ZDpZTzdLHmVwXJdkQ91jwFFR9RWttM1RF8vxWZMvMK3/FfoNOaZdPeGE/EOXWFGRl9thalRaaeuHudfm4tbLoGTJYfVhYdNiJ4nIiU76RlUeWe5+Xj6qReZ25hBDrmXXjIdz6I/mHIP67YavzG+addfyaCL8ov+G+ItCIfOSDcr3rXUTmQ==",
+    "content-type": "application/json;charset=UTF-8",
+    "priority": "u=1, i",
+    "route": "pak/en/ukr",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": "{\"countryCode\":\"pak\",\"missionCode\":\"ukr\",\"centerCode\":\"KHI\",\"loginUser\":\"likati1024@idwager.com\",\"visaCategoryCode\":\"IP\",\"slotDate\":\"05/12/2025\",\"urn\":\"UKP73230589844\"}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+
+
+{
+    "mission": "Ukraine",
+    "center": "Ukraine Visa Application Center, Karachi",
+    "visacategory": "IP",
+    "date": "12/05/2025",
+    "slots": [
+        {
+            "visaGroupName": "Visa (Short Stay)",
+            "allocationId": "02022ce8d8ef70415c68ef08074bfdbd11ad3ccc7981b999a628ec1e0d84b8f569582fbc",
+            "slot": "10:30-11:00",
+            "type": "Normal",
+            "allocationCategory": "UKRAINE COUNTER",
+            "categoryCode": "CC AND GU"
+        },
+        {
+            "visaGroupName": "Visa (Short Stay)",
+            "allocationId": "3a707b286bc1ec2adc663b78a60f982d4141ccb05ba45425b687ea940e3fc08da51ec4c1",
+            "slot": "12:30-13:00",
+            "type": "Normal",
+            "allocationCategory": "UKRAINE COUNTER",
+            "categoryCode": "CC AND GU"
+        },
+        {
+            "visaGroupName": "Visa (Short Stay)",
+            "allocationId": "51b909652d3dc5baf1b1049546f0c6fd1fe686dd80d6533da06e1695673c03d20b6f1371",
+            "slot": "13:00-13:10",
+            "type": "Normal",
+            "allocationCategory": "UKRAINE COUNTER",
+            "categoryCode": "CC AND GU"
+        },
+        {
+            "visaGroupName": "Visa (Short Stay)",
+            "allocationId": "fc73f6b63355af5f579fce3d9031e8fc0e022045a89ed06292ee16715593e421573a1c93",
+            "slot": "13:20-13:30",
+            "type": "Normal",
+            "allocationCategory": "UKRAINE COUNTER",
+            "categoryCode": "CC AND GU"
+        }
+    ],
+    "error": null
+}
+
+
+
+fetch("https://lift-api.vfsglobal.com/appointment/fees", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "authorize": "EAAAAP/K7HIhB2JIAFQzYJPuje8oTpF9yAr6oGosIl4EWPuRjwhF5Puvxo5oK/eFG+4/YPAYw2m9DPRLqRuAwnU649AHRHBqZks57soiyu4gyrVMkp0fgDllHckxiMe8eaaurnoY+PkaGUYI6vt6j2TM4XfpVHkt1xS/O7Zlj+2Z3pOnj/E6olAkj92RilKA51WQB2lhYJ+i7AomAipMHH7FJTYnJwyaYJeWBKJOBkY95V9xppn+1N6U9gZEOT4rIrHTYwHVloWDrq+eFODZMwyb4EEl6xHGc13vdUthEd7D1ALAXWGnh+rT52kN7NQLW8GhQIXzAdorXncaJO/Rspg83oANJxgaAw93xsrzC/B94FJarU5iowo4/9uA84ZIf36pJl/SWirpzBx/fKXi4hhmG+eFjgGs194TUenHNQgPTw9MtJ5PGufh/mTuakvaNvXXCk+BfU8sqnJfkt4OMwPsbjMBIvSOberR/OwM6tf3kdWbBmReXCY2O80qU5rKqdn1kEahhLWthRYbJPmN7F3hfP9/42157ZR8zUK4HzmUWKtp",
+    "clientsource": "gmS7p3zHo/w57iZ0ZJExdRuT0C9K3BQg5+z4JJU+DxIXdUec108BeBuWdMBZwScoieV8P4hs5257hXYGFxETBQsqHeAPoZAvBYnxmpwA3E457w4DbWVwcYMw+xQ/UkfMkKuw4rOpV7lwEyxQuQnIgm4TZ5RBHYeLkqKlRVaJfKs0GYh5ob4Fr+pNjCkmN05erMMyVJDgk1tjqhpHf3/14b4yGI4vLkJMa/Fw+IWHb3VOJ/Gc4PSTIFwijJGLz8v40tv+ZVbDyENDv9iYGnQUs8uNA2yq7dfp3r9RXdouqVbl3H+BYpeyFvT2C9Y+9cIIdcIyu5N95lcG0nD9xzlaGA==",
+    "content-type": "application/json;charset=UTF-8",
+    "priority": "u=1, i",
+    "route": "pak/en/ukr",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": "{\"missionCode\":\"ukr\",\"countryCode\":\"pak\",\"centerCode\":\"KHI\",\"loginUser\":\"likati1024@idwager.com\",\"urn\":\"UKP73230589844\",\"languageCode\":\"en-US\"}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+{
+    "mission": "ukr",
+    "country": "pak",
+    "center": "KHI",
+    "totalamount": 0,
+    "totalSGSTCollected": 0,
+    "totalCGSTCollected": 0,
+    "totalIGSTCollected": 0,
+    "totalCalamityCessCollected": 0,
+    "feeDetails": null,
+    "servicesFee": null,
+    "additionalFee": null,
+    "error": null
+}
+
+
+
+fetch("https://vfsglobal-privacy.my.onetrust.com/request/v1/consentreceipts", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "content-type": "application/json",
+    "priority": "u=1, i",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": "{\"requestInformation\":\"eyJhbGciOiJSUzUxMiJ9.eyJvdEp3dFZlcnNpb24iOjEsInByb2Nlc3NJZCI6ImM0OWMwZDUwLTE0MzUtNDZhMy1iYjdiLTNkYjJjZmQ3ZDdiNSIsInByb2Nlc3NWZXJzaW9uIjoyNCwiaWF0IjoiMjAyNC0wMi0yOFQxMjo1MDoyOS44MSIsIm1vYyI6IldFQl9GT1JNIiwicG9saWN5X3VyaSI6bnVsbCwic3ViIjoiRW1haWwiLCJpc3MiOiJodHRwczovL3Zpc2EudmZzZ2xvYmFsLmNvbS8_Pz8vPz8vPz8_L3JlZ2lzdHJhdGlvbiIsInRlbmFudElkIjoiMGYxZjQ4YjUtMmQxYy00ZGI2LWI2MDgtMzc4OGZjMmNjZDZjIiwiZGVzY3JpcHRpb24iOiI2IHBhcnQgY29uc2VudCBjb2xsZWN0aW9uIGZvciBBTVMgam91cm5leVxuUmVjb3JkcyBBTVMgcmVnaXN0cmF0aW9uIHBhZ2UgVVJMIHRvIHJlY29yZCAgXCJBcHBseWluZyBGcm9tXCIsIFwiIEdvaW5nIHRvXCIgYW5kIExhbmd1YWdlIHZhcmlhYmxlcy5cbkR5bmFtaWMgUHJpdmFjeSBub3RpY2UgbGluayBmb3IgbGFuZ3VhZ2UuICIsImNvbnNlbnRUeXBlIjoiQ09ORElUSU9OQUxUUklHR0VSIiwiYWxsb3dOb3RHaXZlbkNvbnNlbnRzIjpmYWxzZSwiZG91YmxlT3B0SW4iOmZhbHNlLCJwdXJwb3NlcyI6W3siaWQiOiIzMmM2NjRiNi1kNzY3LTQ5NjMtYWZjMi0yOWNkOGJjZDNlMDEiLCJ2ZXJzaW9uIjo1LCJwYXJlbnRJZCI6bnVsbCwidG9waWNzIjpbXSwiY3VzdG9tUHJlZmVyZW5jZXMiOltdLCJlbmFibGVHZW9sb2NhdGlvbiI6dHJ1ZSwiaW1wbGljaXRDb25zZW50TGlmZVNwYW4iOjB9LHsiaWQiOiI5MjJjYmJmOS1lYzA5LTRhZTMtYTRkMy05OTVlMzliOGEzNzUiLCJ2ZXJzaW9uIjoxNCwicGFyZW50SWQiOm51bGwsInRvcGljcyI6W10sImN1c3RvbVByZWZlcmVuY2VzIjpbXSwiZW5hYmxlR2VvbG9jYXRpb24iOnRydWUsImltcGxpY2l0Q29uc2VudExpZmVTcGFuIjowfSx7ImlkIjoiNDcyNDNhZGEtZTM4MS00MzkwLWI2ODQtZDYwMzM1MTRkMjM0IiwidmVyc2lvbiI6NiwicGFyZW50SWQiOm51bGwsInRvcGljcyI6W10sImN1c3RvbVByZWZlcmVuY2VzIjpbXSwiZW5hYmxlR2VvbG9jYXRpb24iOnRydWUsImltcGxpY2l0Q29uc2VudExpZmVTcGFuIjowfSx7ImlkIjoiYjQxMmVjMTctMGZmYi00Mzg4LWExM2EtODlmMzNmODg0YjYzIiwidmVyc2lvbiI6MSwicGFyZW50SWQiOm51bGwsInRvcGljcyI6W10sImN1c3RvbVByZWZlcmVuY2VzIjpbXSwiZW5hYmxlR2VvbG9jYXRpb24iOnRydWUsImltcGxpY2l0Q29uc2VudExpZmVTcGFuIjowfSx7ImlkIjoiNWRhYzMzM2EtYjk0Ny00ZjQ3LWExZWItNDE0MGJjMjdmZjdjIiwidmVyc2lvbiI6MSwicGFyZW50SWQiOm51bGwsInRvcGljcyI6W10sImN1c3RvbVByZWZlcmVuY2VzIjpbXSwiZW5hYmxlR2VvbG9jYXRpb24iOnRydWUsImltcGxpY2l0Q29uc2VudExpZmVTcGFuIjowfSx7ImlkIjoiNDJiYWQxMGQtOTE2ZS00MDFmLTkxOTctNjhkNzU3YTRlZThhIiwidmVyc2lvbiI6NCwicGFyZW50SWQiOm51bGwsInRvcGljcyI6W10sImN1c3RvbVByZWZlcmVuY2VzIjpbXSwiZW5hYmxlR2VvbG9jYXRpb24iOmZhbHNlLCJpbXBsaWNpdENvbnNlbnRMaWZlU3BhbiI6MH1dLCJub3RpY2VzIjpbXSwiZHNEYXRhRWxlbWVudHMiOlsiVVJMIiwiRnVsbE5hbWUiLCJQYXRyb255bWljTmFtZSJdLCJhdXRoZW50aWNhdGlvblJlcXVpcmVkIjpmYWxzZSwicmVjb25maXJtQWN0aXZlUHVycG9zZSI6ZmFsc2UsIm92ZXJyaWRlQWN0aXZlUHVycG9zZSI6dHJ1ZSwiZHluYW1pY0NvbGxlY3Rpb25Qb2ludCI6ZmFsc2UsImFkZGl0aW9uYWxJZGVudGlmaWVycyI6WyJGdWxsTmFtZSIsIlBhdHJvbnltaWNOYW1lIl0sIm11bHRpcGxlSWRlbnRpZmllclR5cGVzIjpmYWxzZSwiZW5hYmxlUGFyZW50UHJpbWFyeUlkZW50aWZpZXJzIjpmYWxzZSwicGFyZW50UHJpbWFyeUlkZW50aWZpZXJzVHlwZSI6bnVsbCwiYWRkaXRpb25hbFBhcmVudElkZW50aWZpZXJUeXBlcyI6W10sImVuYWJsZUdlb2xvY2F0aW9uIjpmYWxzZSwiZGF0YUVsZW1lbnRUeXBlTWFwIjp7IlBhdHJvbnltaWNOYW1lIjoiVVNFUl9JTlBVVCIsIkZ1bGxOYW1lIjoiVVNFUl9JTlBVVCIsIlVSTCI6IlVTRVJfSU5QVVQifX0.bqjtx0rxrET8ZHBbNhKdjaZYV34DUqCUZl4ZZGqhJ1siQWAfAvy6PJKhVOHjUnATyD48jmWE3RR5c8I4kV8ym1LnRHmtSQ_dVEPRy5X1t-QSOpPmUCQkKGM8gZxmHLFSgr6mFb-aEn0i_Noz___xP52hKwOskcFOIJp9D2dvGGkN4Jgegc1IHojesq3h03ekEzS_po_p7pg6Udv24tTLTq-PRVhAunPWKbgVipGKeIr0XMeVgYOt-7iBHrugMOhlpds7cfsluKyOVuCenaGt9pSHGL0oYzhYsY-JiFcfcVrM-bH0Te0IdIRa9bkN9RGxvY0v56TNtSZ_2PnlDfWhAvWZKsUEInVPNwq41LY4iiEBwzoqdpkW1yycxqPs8woHKQtTvXWuq-2A6QdTbpJk79KNJhbGyx3-3cEu3qSPNc4N5KYUyZ_mIiA4pZJjw6zWEcqNbvZzgC_z07rm3aNqC-vJvQLcdUDRzIflRBdQi2pYy-xUL6WUVS993N3b3tDvTJciB_8VlmRqba-_dLVxXM0jKaqoAN5G0aE_TMLx-dhUynPf5olb-MWdNKS7D_jsnMjYan0JgyotdqzdIXVCQYKr9f8EYIRYDLOg0ayvC2g3-KyvS0lsCvB8kLJxvpyiYZdHK2HuCPeZqNSBC7eI6jtfa3WfikuhFskBsW3X0Mw\",\"identifier\":\"likati1024@idwager.com\",\"language\":null,\"purposes\":[{\"Id\":\"5dac333a-b947-4f47-a1eb-4140bc27ff7c\"}],\"dsDataElements\":{\"URL\":\"https://visa.vfsglobal.com/pak/en/ukr/review-pay\",\"FullName\":\"\",\"PatronymicName\":\"\"}}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "omit"
+});
+
+
+{
+    "receipt": "eyJraWQiOiJ4ekVBanE3RlF2czk3bnhwL2c1TkFyMStIa21UanFvaVhvT3RsTitoTWRCNjBuUzZYSjRVZXk0cm81WUlQaHp2TXRGZnJjMjdDYUdqdkZNMkVQaDAwZz09IiwiYWxnIjoiSFM1MTIifQ.eyJtb2MiOiJXRUJfRk9STSIsInN1YiI6IkVtYWlsIiwiYXR0YWNobWVudHMiOm51bGwsIm5vdGVzIjpudWxsLCJzeW5jR3JvdXAiOm51bGwsImlzcyI6Imh0dHBzOi8vdmlzYS52ZnNnbG9iYWwuY29tLz8_Py8_Py8_Pz8vcmVnaXN0cmF0aW9uIiwiY29uc2VudFN0cmluZyI6bnVsbCwibGFuZ3VhZ2UiOm51bGwsInNvdXJjZSI6bnVsbCwicHJvY2Vzc1ZlcnNpb24iOjI0LCJlbmFibGVQYXJlbnRQcmltYXJ5SWRlbnRpZmllcnMiOmZhbHNlLCJhdXRoZW50aWNhdGlvblJlcXVpcmVkIjpmYWxzZSwiZGF0YUVsZW1lbnRUeXBlTWFwIjp7IlBhdHJvbnltaWNOYW1lIjoiVVNFUl9JTlBVVCIsIkZ1bGxOYW1lIjoiVVNFUl9JTlBVVCIsIlVSTCI6IlVTRVJfSU5QVVQifSwiZHluYW1pY0NvbGxlY3Rpb25Qb2ludCI6ZmFsc2UsInByb2Nlc3NJZCI6ImM0OWMwZDUwLTE0MzUtNDZhMy1iYjdiLTNkYjJjZmQ3ZDdiNSIsImRzRGF0YUVsZW1lbnRzIjpbIlVSTCIsIkZ1bGxOYW1lIiwiUGF0cm9ueW1pY05hbWUiXSwiZG91YmxlT3B0SW4iOmZhbHNlLCJjb25zZW50VHlwZSI6IkNPTkRJVElPTkFMVFJJR0dFUiIsImFkZGl0aW9uYWxJZGVudGlmaWVycyI6e30sImlhdCI6IjIwMjUtMTItMDRUMDQ6MDY6MzMuNTk2ODg5NDMxIiwiY3VzdG9tUGF5bG9hZCI6bnVsbCwianRpIjoiZjAxMDE4ZjAtYTEyZC00ZDQ4LTk1OTItNzc3MTgzMjA5YmQxIiwicG9saWN5X3VyaSI6bnVsbCwiaWRlbnRpZmllciI6ImwqKioqKioqKioqKioqKioqKioqKm0iLCJhZGRpdGlvbmFsUGFyZW50SWRlbnRpZmllclR5cGVzIjpbXSwicGFyZW50UHJpbWFyeUlkZW50aWZpZXJzVHlwZSI6bnVsbCwiZ2FjU3RyaW5nIjpudWxsLCJ0Y1N0cmluZ1YyIjpudWxsLCJyZWNvbmZpcm1BY3RpdmVQdXJwb3NlIjpmYWxzZSwiYWxsb3dOb3RHaXZlbkNvbnNlbnRzIjpmYWxzZSwibm90aWNlcyI6W10sImlzQW5vbnltb3VzIjpmYWxzZSwibXVsdGlwbGVJZGVudGlmaWVyVHlwZXMiOmZhbHNlLCJwdXJwb3NlcyI6W3siSWQiOiI1ZGFjMzMzYS1iOTQ3LTRmNDctYTFlYi00MTQwYmMyN2ZmN2MiLCJWZXJzaW9uIjoxLCJQcmVmZXJlbmNlcyI6W10sIkN1c3RvbVByZWZlcmVuY2VzIjpbXSwiUHJpdmFjeU5vdGljZXMiOltdLCJUcmFuc2FjdGlvblR5cGUiOm51bGwsIlB1cnBvc2VBdHRhY2htZW50cyI6W10sIlB1cnBvc2VOb3RlIjpudWxsLCJhdHRyaWJ1dGVzIjp7fSwiUHVycG9zZVNjb3BlcyI6bnVsbCwiSW1wbGljaXRDb25zZW50TGlmZVNwYW4iOjB9XSwidGVuYW50SWQiOiIwZjFmNDhiNS0yZDFjLTRkYjYtYjYwOC0zNzg4ZmMyY2NkNmMiLCJvdmVycmlkZUFjdGl2ZVB1cnBvc2UiOnRydWUsInJlY2VpcHREYWlzeUNoYWluUmVtb3ZlZCI6dHJ1ZSwib3RKd3RWZXJzaW9uIjoxLCJlbmFibGVHZW9sb2NhdGlvbiI6ZmFsc2V9.6IL7tEGa47BrO2xg4aOzHP7_35xpFTvByODub4ld59ZZrXGocsgwJSEzVtvPvcZqVGGr044K0QJqh7itXcQfnw"
+}
+
+
+
+
+fetch("https://lift-api.vfsglobal.com/appointment/schedule", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "authorize": "EAAAAP/K7HIhB2JIAFQzYJPuje8oTpF9yAr6oGosIl4EWPuRjwhF5Puvxo5oK/eFG+4/YPAYw2m9DPRLqRuAwnU649AHRHBqZks57soiyu4gyrVMkp0fgDllHckxiMe8eaaurnoY+PkaGUYI6vt6j2TM4XfpVHkt1xS/O7Zlj+2Z3pOnj/E6olAkj92RilKA51WQB2lhYJ+i7AomAipMHH7FJTYnJwyaYJeWBKJOBkY95V9xppn+1N6U9gZEOT4rIrHTYwHVloWDrq+eFODZMwyb4EEl6xHGc13vdUthEd7D1ALAXWGnh+rT52kN7NQLW8GhQIXzAdorXncaJO/Rspg83oANJxgaAw93xsrzC/B94FJarU5iowo4/9uA84ZIf36pJl/SWirpzBx/fKXi4hhmG+eFjgGs194TUenHNQgPTw9MtJ5PGufh/mTuakvaNvXXCk+BfU8sqnJfkt4OMwPsbjMBIvSOberR/OwM6tf3kdWbBmReXCY2O80qU5rKqdn1kEahhLWthRYbJPmN7F3hfP9/42157ZR8zUK4HzmUWKtp",
+    "clientsource": "gGiwGb6BpMkWPyVaULgRCLuXMNoxoKJ2zEfnWfWEJUKaKl/yvzzOhPAQd3EMcGgsIR1Zk+tKtsQW0cDMWsgwE8OIHN851roSwq2XF3iv5S8tayyAhxlDWavWdHqZLeadsaitHS0Gk/IMPn7QG1TLUeHUyd2erVAv4U3sUMvRtvP7+jKSCBzRnAh2kxXJzYOIrSoePrwcSXjBt6/UJK2wO34Yek2Q5EyF2T6l0cM7t/DDMv3lYrakfbotqHMNHExLOy67xKimWz/i8X8a4dhVYnFO8hwmWRVLGM7oxcQgQgbTnMt07CHAZ8MB6dzWtejkrb7TY/irE6/1a5Ataqgxlw==",
+    "content-type": "application/json;charset=UTF-8",
+    "priority": "u=1, i",
+    "route": "pak/en/ukr",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": "{\"missionCode\":\"ukr\",\"countryCode\":\"pak\",\"centerCode\":\"KHI\",\"loginUser\":\"likati1024@idwager.com\",\"urn\":\"UKP73230589844\",\"aurn\":null,\"notificationType\":\"none\",\"paymentdetails\":{\"paymentmode\":\"Vac\",\"RequestRefNo\":\"\",\"clientId\":\"\",\"merchantId\":\"\",\"amount\":0,\"currency\":\"PKR\"},\"allocationId\":\"51b909652d3dc5baf1b1049546f0c6fd1fe686dd80d6533da06e1695673c03d20b6f1371\",\"CanVFSReachoutToApplicant\":false,\"TnCConsentAndAcceptance\":true}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+
+{
+    "IsAppointmentBooked": true,
+    "IsPaymentRequired": false,
+    "RequestRefNo": 0,
+    "URL": null,
+    "DigitalSignature": null,
+    "TokenExpiryDate": null,
+    "appointmentDate": "05/12/2025",
+    "appointmentTime": "13:00",
+    "payLoad": null,
+    "bookedAppointmentValidity": null,
+    "bankPaymentExpiryDate": null,
+    "IsPG2Enabled": false,
+    "error": null
+}
+
+
+fetch("https://lift-api.vfsglobal.com/appointment/application", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9,bn;q=0.8,de;q=0.7",
+    "authorize": "EAAAAP/K7HIhB2JIAFQzYJPuje8oTpF9yAr6oGosIl4EWPuRjwhF5Puvxo5oK/eFG+4/YPAYw2m9DPRLqRuAwnU649AHRHBqZks57soiyu4gyrVMkp0fgDllHckxiMe8eaaurnoY+PkaGUYI6vt6j2TM4XfpVHkt1xS/O7Zlj+2Z3pOnj/E6olAkj92RilKA51WQB2lhYJ+i7AomAipMHH7FJTYnJwyaYJeWBKJOBkY95V9xppn+1N6U9gZEOT4rIrHTYwHVloWDrq+eFODZMwyb4EEl6xHGc13vdUthEd7D1ALAXWGnh+rT52kN7NQLW8GhQIXzAdorXncaJO/Rspg83oANJxgaAw93xsrzC/B94FJarU5iowo4/9uA84ZIf36pJl/SWirpzBx/fKXi4hhmG+eFjgGs194TUenHNQgPTw9MtJ5PGufh/mTuakvaNvXXCk+BfU8sqnJfkt4OMwPsbjMBIvSOberR/OwM6tf3kdWbBmReXCY2O80qU5rKqdn1kEahhLWthRYbJPmN7F3hfP9/42157ZR8zUK4HzmUWKtp",
+    "clientsource": "LxxexPsblQSNYVXzceQwJUTe95RUbSAenrEZrztSonuDZod7X/dKgbgbjef9Ijm6cl9wSxFUvOIiOCKeUYIfpuZumC9q+7itbTu/553t3MkFFeW+zDiIPVXSM0ko0H9QJKCHBTdaPW/w92MSH2XXjaKwtHULKOUZiBoe+scMaSpiCikOp3eRgBaFZ53j7unUAe4Me5+DoHJvfEpnSEt46v3xEpVy9iwElQK/2X+c1G/ysImT3XJM2Q73LlTliYhgwI/bh9XQ390Tf9gInF0UQucAkb6CB30Us5x0len/R+5GHQ4Lz4T4DYFihw1ddYhqMNVCrb/tFDIiAGOOrWDb2w==",
+    "content-type": "application/json;charset=UTF-8",
+    "priority": "u=1, i",
+    "route": "pak/en/ukr",
+    "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://visa.vfsglobal.com/",
+  "body": "{\"countryCode\":\"pak\",\"missionCode\":\"ukr\",\"loginUser\":\"likati1024@idwager.com\",\"aurn\":\"\",\"emailId\":\"\",\"countactNumber\":\"\",\"passportNumber\":\"\"}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+
+
+{
+    "data": [
+        {
+            "urn": "UKP73230589844",
+            "visaCategoryCode": "IP",
+            "parentVisaCategoryCode": "Short Stay",
+            "loginUser": "likati1024@idwager.com",
+            "missionCode": "ukr",
+            "countryCode": "pak",
+            "isEdit": "0",
+            "vacCode": "KHI",
+            "isPaymentDone": null,
+            "transactionID": null,
+            "isDocumentAvailable": false,
+            "isShippingLabelAvailable": false,
+            "visaType": null,
+            "applicationType": null,
+            "isCompleted": false,
+            "isPrepaidCourier": false,
+            "isWaitlist": false,
+            "waitlistStatus": null,
+            "isWaitlistUpdate": false,
+            "isPayAtBankSelected": false,
+            "isRescheduleDisable": false,
+            "isCancellationDisable": false,
+            "PayAtBankStatus": "Confirmed",
+            "applicants": [
+                {
+                    "lastName": "ZOHAN",
+                    "applicantGroupId": 73695810,
+                    "gender": 3,
+                    "dialCode": "880",
+                    "cityCode": 0,
+                    "vas": null,
+                    "fees": null,
+                    "emailId": "LIKATI1024@IDWAGER.COM",
+                    "appointment": {
+                        "appointmentTime": "13:00-13:10",
+                        "appoinmentDate": "05/12/2025",
+                        "slotType": "0",
+                        "categoryCode": "CC and GU",
+                        "visaGroup": null,
+                        "isCancellationRefundNotApplicable": true,
+                        "cancellationWithRefundAfterHours": 72
+                    },
+                    "parentPassportExpiry": "",
+                    "nationalityCode": "BRB",
+                    "applicantType": 0,
+                    "parentPassportNumber": "",
+                    "contactNumber": "1717676676",
+                    "passportNumber": "A4356754",
+                    "arn": "UKP73230589844/1",
+                    "pincode": null,
+                    "dateOfBirth": "10/12/2010",
+                    "firstName": "SPECIAL",
+                    "isEndorsedChild": "false",
+                    "referenceNumber": "",
+                    "addressline2": "",
+                    "addressline1": "",
+                    "stateCode": 0,
+                    "salutation": 0,
+                    "dateOfDeparture": "",
+                    "middleName": null,
+                    "entryType": null,
+                    "eoiVisaType": null,
+                    "state": null,
+                    "city": null,
+                    "IsAppointmentCancellationEnable": true,
+                    "IsVASCancellationEnable": false,
+                    "passportExpirtyDate": "15/02/2029",
+                    "vafStatus": null,
+                    "vafConfiguration": null,
+                    "centerClassCode": null,
+                    "selectedSubvisaCategory": null,
+                    "Subclasscode": null,
+                    "dateOfApplication": null
+                }
+            ],
+            "assignedServiceCenter": null,
+            "startDate": null,
+            "endDate": null,
+            "firstCountryOfEntry": null,
+            "coverageType": null,
+            "coverageLevel": null,
+            "isRequiredExtraSports": null,
+            "isSlotAvailableForReschedule": true,
+            "IsBookedByCC": false,
+            "PaymentStatus": "Cash",
+            "anyGRNumber": null,
+            "regioncode": null,
+            "upSellVASPayStatus": "",
+            "ccWaitlistActiveStatus": null,
+            "userAction": "UPSellVAS",
+            "modeofPayment": null,
+            "isHMPODNATestReceiptAvailable": false,
+            "isSchengenAppointmentEnabled": false,
+            "isPendingAppointment": false,
+            "disableSchengenBookNew": false,
+            "is24hPriorAppointment": true,
+            "isTopUpVASEnabled": false
+        }
+    ],
+    "error": null
+}
