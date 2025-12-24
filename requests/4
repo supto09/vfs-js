@@ -1,0 +1,23 @@
+https://lift-api.vfsglobal.com/appointment/CheckIsSlotAvailable
+
+{
+    "countryCode":"pak",
+    "missionCode":"ukr",
+    "vacCode":"LHE",
+    "visaCategoryCode":"MT",
+    "roleName":"Individual",
+    "loginUser":"witej38159@alexida.com",
+    "payCode":""
+}
+
+
+{
+    "earliestDate": "12/23/2025 00:00:00",
+    "earliestSlotLists": [
+        {
+            "applicant": "1",
+            "date": "12/23/2025 00:00:00"
+        }
+    ],
+    "error": null
+}

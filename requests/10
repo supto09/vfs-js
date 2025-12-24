@@ -1,0 +1,39 @@
+https://lift-api.vfsglobal.com/appointment/schedule
+
+{
+  "missionCode": "ukr",
+  "countryCode": "pak",
+  "centerCode": "ISB",
+  "loginUser": "witej38159@alexida.com",
+  "urn": "UKP73560703241",
+  "aurn": null,
+  "notificationType": "none",
+  "paymentdetails": {
+    "paymentmode": "Vac",
+    "RequestRefNo": "",
+    "clientId": "",
+    "merchantId": "",
+    "amount": 0,
+    "currency": "PKR"
+  },
+  "allocationId": "1df17ee332924ba09a58c826bd0455422b4b8e7414f94788ff5de866c7d74747e88f0fe0",
+  "CanVFSReachoutToApplicant": true,
+  "TnCConsentAndAcceptance": true
+}
+
+
+{
+    "IsAppointmentBooked": true,
+    "IsPaymentRequired": false,
+    "RequestRefNo": 0,
+    "URL": null,
+    "DigitalSignature": null,
+    "TokenExpiryDate": null,
+    "appointmentDate": "31/12/2025",
+    "appointmentTime": "13:00",
+    "payLoad": null,
+    "bookedAppointmentValidity": null,
+    "bankPaymentExpiryDate": null,
+    "IsPG2Enabled": false,
+    "error": null
+}

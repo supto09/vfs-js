@@ -1,0 +1,46 @@
+https://lift-api.vfsglobal.com/appointment/timeslot
+
+
+{
+    "countryCode":"pak",
+    "missionCode":"ukr",
+    "centerCode":"ISB",
+    "loginUser":"witej38159@alexida.com",
+    "visaCategoryCode":"IP",
+    "slotDate":"31/12/2025",
+    "urn":"UKP73560703241"
+}
+
+{
+    "mission": "Ukraine",
+    "center": "Ukraine Visa Application Center, Islamabad",
+    "visacategory": "IP",
+    "date": "12/31/2025",
+    "slots": [
+        {
+            "visaGroupName": "Visa (Short Stay)",
+            "allocationId": "968208eaca23d92151ad56eb27a4fc314e73c47653ed890a870f7d64d86778b02bf9f25e",
+            "slot": "10:30-11:00",
+            "type": "Normal",
+            "allocationCategory": "UKRAINE COUNTER",
+            "categoryCode": "CC AND GU"
+        },
+        {
+            "visaGroupName": "Visa (Short Stay)",
+            "allocationId": "1df17ee332924ba09a58c826bd0455422b4b8e7414f94788ff5de866c7d74747e88f0fe0",
+            "slot": "13:00-13:10",
+            "type": "Normal",
+            "allocationCategory": "UKRAINE COUNTER",
+            "categoryCode": "CC AND GU"
+        },
+        {
+            "visaGroupName": "Visa (Short Stay)",
+            "allocationId": "695526da7a4c0947512ab9af2b093008ebe48428e355b8e8dcee1cb632a72fc68b6fdce5",
+            "slot": "13:30-13:40",
+            "type": "Normal",
+            "allocationCategory": "UKRAINE COUNTER",
+            "categoryCode": "CC AND GU"
+        }
+    ],
+    "error": null
+}

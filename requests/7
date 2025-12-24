@@ -1,0 +1,26 @@
+https://lift-api.vfsglobal.com/appointment/fees
+
+{
+    "missionCode":"ukr",
+    "countryCode":"pak",
+    "centerCode":"ISB",
+    "loginUser":"witej38159@alexida.com",
+    "urn":"UKP73560648785",
+    "languageCode":"en-US"
+}
+
+
+{
+    "mission": "ukr",
+    "country": "pak",
+    "center": "ISB",
+    "totalamount": 0,
+    "totalSGSTCollected": 0,
+    "totalCGSTCollected": 0,
+    "totalIGSTCollected": 0,
+    "totalCalamityCessCollected": 0,
+    "feeDetails": null,
+    "servicesFee": null,
+    "additionalFee": null,
+    "error": null
+}

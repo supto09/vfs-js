@@ -1,0 +1,87 @@
+https://lift-api.vfsglobal.com/appointment/calendar
+
+{
+    "countryCode":"pak",
+    "missionCode":"ukr",
+    "centerCode":"ISB",
+    "loginUser":"witej38159@alexida.com",
+    "visaCategoryCode":"IP",
+    "fromDate":"22/12/2025",
+    "urn":"UKP73560703241",
+    "payCode":""
+}
+
+
+
+{
+    "mission": "Ukraine",
+    "center": "Ukraine Visa Application Center, Islamabad",
+    "visacategory": "IP",
+    "calendars": [
+        {
+            "date": "12/22/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/22/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/23/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/23/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/24/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/24/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/24/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/29/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/29/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/30/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/30/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/30/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/30/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/31/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/31/2025",
+            "isWeekend": false
+        },
+        {
+            "date": "12/31/2025",
+            "isWeekend": false
+        }
+    ],
+    "error": null
+}
