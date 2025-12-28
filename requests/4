@@ -21,3 +21,14 @@ https://lift-api.vfsglobal.com/appointment/CheckIsSlotAvailable
     ],
     "error": null
 }
+
+
+{
+    "earliestDate": null,
+    "earliestSlotLists": [],
+    "error": {
+        "code": 1035,
+        "description": "No slots available",
+        "type": "Information"
+    }
+}
